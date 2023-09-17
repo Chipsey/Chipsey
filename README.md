@@ -1,4 +1,4 @@
-![Profile Image](https://github.com/Chipsey/Chipsey/blob/main/banner.png)
+![Profile Image](https://github.com/Chipsey/Chipsey/blob/main/Chipsey-FB-Cover.jpg)
 
 
 ### Hi there 👋
