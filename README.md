@@ -1,4 +1,5 @@
-![Profile Image]([https://your-cdn-url.com/images/profile-image.png](https://github.com/Chipsey/Chipsey/blob/main/banner.png))
+![Profile Image](https://github.com/Chipsey/Chipsey/blob/main/banner.png)
+
 
 ### Hi there 👋
 
