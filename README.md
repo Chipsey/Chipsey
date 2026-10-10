@@ -2,12 +2,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working as __Software Engineer Intern @Spera__
-- 🔭 I’m currently working as __Level 2 Seller @Fiverr.__
-- 🌱 I’m currently reading for __BSc(Hons) in Information Technology @University of Moratuwa.__
+- 🔭 I’m currently working as __Software Engineer @DirectFN
+- 🌱 I’m Graduated __BSc(Hons) in Information Technology @University of Moratuwa.__
 - 👯 I’m looking to collaborate on __Software Engineering Industry.__
 - 💬 Ask me about anything related to __Software Engineering and Music Producing.__
--  📫 How to reach me: chipseyofficial@gmail.com
+-  📫 How to reach me: udanad.kodikara@gmail.com
 - ⚡ Fun fact: I eat Chips, => Chipsey ;)
 
 __Enjoy My Music 🎸__
